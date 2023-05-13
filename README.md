@@ -1,6 +1,6 @@
-# Exp.No:7 Series Queues with infinite capacity - Open Jackson Network
-
-## Date :
+### EX NO : 07
+### DATE  : 
+# <p align="center">Series Queues with infinite capacity - Open Jackson Network</p>
 
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the each conveyor of (c) waiting time of each material in the system (d) waiting time of each material in each conveyor, if the arrival  of materials follow Poisson process with the mean interval time 12 seconds, service time of  lathe machine in series follow exponential distribution  with service time  1 second, 1.5 seconds and 1.3 seconds respectively and average service time of robot is 7 seconds.
@@ -8,7 +8,7 @@ To find (a) average number of materials in the system (b) average number of mate
 ## Software required :
 Visual components and Python
 
-## Theory
+## Theory :
 
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
@@ -18,12 +18,12 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
-## Experiment:
+## Experiment :
 ![237580393-60da1c8c-db66-46fb-92a1-3621fc5041a2](https://github.com/Aashima02/Open-Jacson-Networks/assets/93427086/3424e3cb-6fbc-4396-840d-cce6a5c9fc83)
 
 ![237580443-6e3233bc-2d75-491a-a77c-bbb1635b5590](https://github.com/Aashima02/Open-Jacson-Networks/assets/93427086/5fb8ea4c-7ae2-481a-918e-d63aaf101484)
 
-## Program:
+## Program :
 Developed By : **Virgil Jovita A**
 </br>
 Register No. : **212221240062**
@@ -65,11 +65,10 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
 ```
 
-## Output:
+## Output :
 ![237580564-8c1f03ad-f87f-48db-8be6-88aec1827fbe](https://github.com/Aashima02/Open-Jacson-Networks/assets/93427086/1826fb7f-9d7d-4c37-8828-8eb425352c26)
 
-## Result:
+## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.

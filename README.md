@@ -1,4 +1,4 @@
-### EX NO : 07
+### EX NO : 06
 ### DATE  : 
 # <p align="center">Series Queues with infinite capacity - Open Jackson Network</p>
 
